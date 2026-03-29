@@ -19,7 +19,7 @@
 - 下载本仓库提供的虚拟机，导入VMware直接使用
    > ❕本仓库已完成下述所有操作，并上传于 [**TICK MIRROR**](https://mirror.t1ck.it/) ，下载可开包即用。  
    > 下载请参阅：[TICK MIRROR | CentOS_network-autooperathon](https://mirror.t1ck.it/CentOS_network-autooperathon/)  
-- 或 根据下述步骤完成对虚拟机的*完善*
+- 或 根据下述步骤完成对虚拟机进行*完善*
   
 #### 本仓库提供的虚拟机集成了：
    - Python 3.6.15
